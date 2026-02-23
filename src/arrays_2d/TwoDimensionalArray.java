@@ -1,5 +1,6 @@
+package src.arrays_2d;
 //array of arrays
-public class twoDimensionalArray{
+public class TwoDimensionalArray{
     static void printArray(int[][] arr){
         for(int i=0; i<arr.length; i++){
             for(int j=0; j<arr[i].length; j++){
